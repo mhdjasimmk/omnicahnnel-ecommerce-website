@@ -1,0 +1,379 @@
+{
+  "retrieved_date": "2026-11-09",
+  "usage": "Proposed visual preview assortment, not verified Essenzi inventory. Prices are configured demo AED amounts, not live retailer quotes.",
+  "catalog_sources": [
+    "https://www.revlon.com/products.json?limit=250",
+    "https://www.glowrecipe.com/products.json?limit=250",
+    "https://necessaire.com/products.json?limit=250",
+    "https://olaplex.com/products.json?limit=250"
+  ],
+  "footer_sources": {
+    "shopping_ios": "https://apps.apple.com/us/app/essenzi/id6744823753",
+    "shopping_android": "https://play.google.com/store/apps/details?id=com.essenzi.powerApp",
+    "whatsapp_number": "+971502182520",
+    "whatsapp_evidence": "https://www.trustpilot.com/review/essenzi.com?page=2",
+    "whatsapp_context": "Essenzi company reply to Kseniia, 3 Apr 2026, gives this number explicitly for WhatsApp customer care."
+  },
+  "products": [
+    {
+      "id": "revlon-8040993784003",
+      "product_url": "https://www.revlon.com/products/photoready-eye-contour-kit-eyeshadow-palette",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309971188053_Impressionist_01_2bdec69d-bb51-4a74-bb9a-4e0c24c03bc9.jpg?v=1780591387",
+      "local_image": "/assets/beauty/revlon-8040993784003.jpg"
+    },
+    {
+      "id": "revlon-8040993849539",
+      "product_url": "https://www.revlon.com/products/photoready-powder",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/RV_2H25_PR_Blurring_Powder_LidON_Translucent_001_300RGB_3000x3000_jpeg.png?v=1782240246",
+      "local_image": "/assets/beauty/revlon-8040993849539.png"
+    },
+    {
+      "id": "revlon-8253844357315",
+      "product_url": "https://www.revlon.com/products/photoready-insta-sculpt-bronzer-contour-stick",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309970293284_Chiseled_01.jpg?v=1781273344",
+      "local_image": "/assets/beauty/revlon-8253844357315.jpg"
+    },
+    {
+      "id": "revlon-8260331143363",
+      "product_url": "https://www.revlon.com/products/glimmer-shadow-multi-stick",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309970265458_Tini_Time_01.jpg?v=1781194061",
+      "local_image": "/assets/beauty/revlon-8260331143363.jpg"
+    },
+    {
+      "id": "revlon-8253826302147",
+      "product_url": "https://www.revlon.com/products/glimmer-super-balm",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309970281571_Chill_Vibes_01.jpg?v=1778254625",
+      "local_image": "/assets/beauty/revlon-8253826302147.jpg"
+    },
+    {
+      "id": "revlon-8040994078915",
+      "product_url": "https://www.revlon.com/products/insta-blush-cream-blush-stick",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309979750023_Berry_Kiss_01.jpg?v=1780588694",
+      "local_image": "/assets/beauty/revlon-8040994078915.jpg"
+    },
+    {
+      "id": "revlon-8219835891907",
+      "product_url": "https://www.revlon.com/products/photoready-lift-fill-skin-tint",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/RV_1H26_PR_LiftFill_Skin_Tint_SoldierCapOff_100_300RGB.3000x3000.jpg?v=1761578251",
+      "local_image": "/assets/beauty/revlon-8219835891907.jpg"
+    },
+    {
+      "id": "revlon-8219856076995",
+      "product_url": "https://www.revlon.com/products/super-lustrous-ultra-lipstick",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/RV_2H25_SL_Ultra_Lipstick_SoldierCapOff_Heatwave_010_300RGB.3000x3000badge.jpg?v=1783541512",
+      "local_image": "/assets/beauty/revlon-8219856076995.jpg"
+    },
+    {
+      "id": "revlon-8097723711683",
+      "product_url": "https://www.revlon.com/products/illuminance-protect-moisturize-primer-spf-30",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/IlluminanceProtectMoisturizeSPF30Primer.jpg?v=1735335339",
+      "local_image": "/assets/beauty/revlon-8097723711683.jpg"
+    },
+    {
+      "id": "revlon-8091042119875",
+      "product_url": "https://www.revlon.com/products/super-lustrous-glimmer-gloss",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309970174170_Happy_Hour_02.jpg?v=1761157811",
+      "local_image": "/assets/beauty/revlon-8091042119875.jpg"
+    },
+    {
+      "id": "revlon-8093870850243",
+      "product_url": "https://www.revlon.com/products/colorstay-full-time-mascara",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309970211707_1.jpg?v=1735330890",
+      "local_image": "/assets/beauty/revlon-8093870850243.jpg"
+    },
+    {
+      "id": "revlon-8093782016195",
+      "product_url": "https://www.revlon.com/products/colorstay-multi-liner",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309970234140_1.jpg?v=1761160333",
+      "local_image": "/assets/beauty/revlon-8093782016195.jpg"
+    },
+    {
+      "id": "glowrecipe-4623447031923",
+      "product_url": "https://www.glowrecipe.com/products/watermelon-glow-niacinamide-dew-drops",
+      "source_image": "https://cdn.shopify.com/s/files/1/0543/8301/files/10_21_2410_21_24_WM_DEWDROPS-_1.jpg?v=1762197997",
+      "local_image": "/assets/beauty/glowrecipe-4623447031923.jpg"
+    },
+    {
+      "id": "glowrecipe-4419647144051",
+      "product_url": "https://www.glowrecipe.com/products/watermelon-glow-pha-bha-pore-tight-toner",
+      "source_image": "https://cdn.shopify.com/s/files/1/0543/8301/files/5_19_PRIDE_LAUNCH_PDP_a28f18ba-72a9-4faa-bf1a-c07e13b24d77.jpg?v=1779162473",
+      "local_image": "/assets/beauty/glowrecipe-4419647144051.jpg"
+    },
+    {
+      "id": "glowrecipe-6670263156851",
+      "product_url": "https://www.glowrecipe.com/products/plum-plump-hyaluronic-cream",
+      "source_image": "https://cdn.shopify.com/s/files/1/0543/8301/files/NEW5_14_24_PDP_CLAIM_REFRESH_PLUM_CREAM-01.jpg?v=1762198051",
+      "local_image": "/assets/beauty/glowrecipe-6670263156851.jpg"
+    },
+    {
+      "id": "glowrecipe-1409547534398",
+      "product_url": "https://www.glowrecipe.com/products/glow-recipe-blueberry-bounce-gentle-cleanser",
+      "source_image": "https://cdn.shopify.com/s/files/1/0543/8301/files/5_14_24_PDP_CLAIM_REFRESH_BB_CLEANSER-01.jpg?v=1762197928",
+      "local_image": "/assets/beauty/glowrecipe-1409547534398.jpg"
+    },
+    {
+      "id": "glowrecipe-7379213582451",
+      "product_url": "https://www.glowrecipe.com/products/avocado-ceramide-moisture-barrier-cleanser",
+      "source_image": "https://cdn.shopify.com/s/files/1/0543/8301/files/5_14_24_PDP_CLAIM_REFRESH_AVOCADO_CLEANSER-04_1.jpg?v=1762198257",
+      "local_image": "/assets/beauty/glowrecipe-7379213582451.jpg"
+    },
+    {
+      "id": "glowrecipe-6940854124659",
+      "product_url": "https://www.glowrecipe.com/products/guava-vitamin-c-bright-eye-gel-cream",
+      "source_image": "https://cdn.shopify.com/s/files/1/0543/8301/files/NEW5_14_24_PDP_CLAIM_REFRESH_GUAVA_EYECREAM-03.jpg?v=1762198098",
+      "local_image": "/assets/beauty/glowrecipe-6940854124659.jpg"
+    },
+    {
+      "id": "glowrecipe-6796465602675",
+      "product_url": "https://www.glowrecipe.com/products/strawberry-smooth-bha-aha-salicylic-serum",
+      "source_image": "https://cdn.shopify.com/s/files/1/0543/8301/files/NEW5_14_24_PDP_CLAIM_REFRESH_STRAWBERRY_SERUM-01.jpg?v=1762198075",
+      "local_image": "/assets/beauty/glowrecipe-6796465602675.jpg"
+    },
+    {
+      "id": "glowrecipe-6618599686259",
+      "product_url": "https://www.glowrecipe.com/products/guava-vitamin-c-dark-spot-serum",
+      "source_image": "https://cdn.shopify.com/s/files/1/0543/8301/files/NEW5_14_24_PDP_CLAIM_REFRESH_GUAVA_SERUM-01.jpg?v=1762198031",
+      "local_image": "/assets/beauty/glowrecipe-6618599686259.jpg"
+    },
+    {
+      "id": "glowrecipe-6541439533171",
+      "product_url": "https://www.glowrecipe.com/products/avocado-ceramide-recovery-serum",
+      "source_image": "https://cdn.shopify.com/s/files/1/0543/8301/files/5_14_24_PDP_CLAIM_REFRESH_AVOCADO-06.jpg?v=1762198010",
+      "local_image": "/assets/beauty/glowrecipe-6541439533171.jpg"
+    },
+    {
+      "id": "glowrecipe-7184444424307",
+      "product_url": "https://www.glowrecipe.com/products/pomegranate-peptide-firming-serum",
+      "source_image": "https://cdn.shopify.com/s/files/1/0543/8301/files/NEW5_14_24_PDP_CLAIM_REFRESH_POMEGRANATE_SERUM-01.jpg?v=1762198204",
+      "local_image": "/assets/beauty/glowrecipe-7184444424307.jpg"
+    },
+    {
+      "id": "glowrecipe-4546850324595",
+      "product_url": "https://www.glowrecipe.com/products/papaya-sorbet-enzyme-cleansing-balm",
+      "source_image": "https://cdn.shopify.com/s/files/1/0543/8301/files/NEW5_14_24_PDP_CLAIM_REFRESH_PAPAYA_BALM-03.jpg?v=1762197984",
+      "local_image": "/assets/beauty/glowrecipe-4546850324595.jpg"
+    },
+    {
+      "id": "glowrecipe-2004167655486",
+      "product_url": "https://www.glowrecipe.com/products/glow-recipe-watermelon-glow-ultra-fine-mist",
+      "source_image": "https://cdn.shopify.com/s/files/1/0543/8301/files/5_14_24_PDP_CLAIM_REFRESH_WM_MIST-02_1.jpg?v=1762197937",
+      "local_image": "/assets/beauty/glowrecipe-2004167655486.jpg"
+    },
+    {
+      "id": "necessaire-7114683449457",
+      "product_url": "https://necessaire.com/products/the-body-wash-multi-oil-eucalyptus-250ml",
+      "source_image": "https://cdn.shopify.com/s/files/1/0034/8812/0947/files/01_THEBODYWASH_EU_PDP_dabedf7c-bbd6-48cf-8716-86ca939c97da.jpg?v=1758836252",
+      "local_image": "/assets/beauty/necessaire-7114683449457.jpg"
+    },
+    {
+      "id": "necessaire-3948681429107",
+      "product_url": "https://necessaire.com/products/the-body-exfoliator",
+      "source_image": "https://cdn.shopify.com/s/files/1/0034/8812/0947/products/01_THEBODYEXFOLIATOR_EU_PDP_0b3e08e4-487a-4ba9-8f44-058c0b17080b.jpg?v=1762199852",
+      "local_image": "/assets/beauty/necessaire-3948681429107.jpg"
+    },
+    {
+      "id": "necessaire-1032109883507",
+      "product_url": "https://necessaire.com/products/the-body-lotion",
+      "source_image": "https://cdn.shopify.com/s/files/1/0034/8812/0947/files/01_THEBODYLOTION_PDP.jpg?v=1762199229",
+      "local_image": "/assets/beauty/necessaire-1032109883507.jpg"
+    },
+    {
+      "id": "necessaire-4253497917555",
+      "product_url": "https://necessaire.com/products/the-body-serum",
+      "source_image": "https://cdn.shopify.com/s/files/1/0034/8812/0947/files/01_THE_BODY_SERUM_PDP.jpg?v=1762200032",
+      "local_image": "/assets/beauty/necessaire-4253497917555.jpg"
+    },
+    {
+      "id": "necessaire-6850619375729",
+      "product_url": "https://necessaire.com/products/the-body-retinol",
+      "source_image": "https://cdn.shopify.com/s/files/1/0034/8812/0947/files/01_THEBODYRETINOL_PDP_113c7b7d-896a-476f-badf-853afffafa25.jpg?v=1762202217",
+      "local_image": "/assets/beauty/necessaire-6850619375729.jpg"
+    },
+    {
+      "id": "necessaire-6905542344817",
+      "product_url": "https://necessaire.com/products/the-hand-cream",
+      "source_image": "https://cdn.shopify.com/s/files/1/0034/8812/0947/files/01_THEHANDCREAMPDP.jpg?v=1762268867",
+      "local_image": "/assets/beauty/necessaire-6905542344817.jpg"
+    },
+    {
+      "id": "necessaire-7755970281585",
+      "product_url": "https://necessaire.com/products/the-hand-wash-cypres-citronne",
+      "source_image": "https://cdn.shopify.com/s/files/1/0034/8812/0947/files/01_THEHANDWASH_CC.jpg?v=1783616422",
+      "local_image": "/assets/beauty/necessaire-7755970281585.jpg"
+    },
+    {
+      "id": "necessaire-7755973296241",
+      "product_url": "https://necessaire.com/products/the-hand-lotion-cypres-citronne",
+      "source_image": "https://cdn.shopify.com/s/files/1/0034/8812/0947/files/01_THEHANDLOTION_CC.jpg?v=1783617378",
+      "local_image": "/assets/beauty/necessaire-7755973296241.jpg"
+    },
+    {
+      "id": "necessaire-7116059148401",
+      "product_url": "https://necessaire.com/products/the-deodorant-gel-fragrance-free",
+      "source_image": "https://cdn.shopify.com/s/files/1/0034/8812/0947/files/01_THE_DEODORANT_GEL_FF_PDP2.jpg?v=1762269104",
+      "local_image": "/assets/beauty/necessaire-7116059148401.jpg"
+    },
+    {
+      "id": "necessaire-6935571136625",
+      "product_url": "https://necessaire.com/products/the-body-bar",
+      "source_image": "https://cdn.shopify.com/s/files/1/0034/8812/0947/files/01_THEBODYBAR_PDP.jpg?v=1762268907",
+      "local_image": "/assets/beauty/necessaire-6935571136625.jpg"
+    },
+    {
+      "id": "necessaire-7187611877489",
+      "product_url": "https://necessaire.com/products/the-body-vitamin-c",
+      "source_image": "https://cdn.shopify.com/s/files/1/0034/8812/0947/files/01THEBODYVITAMINC_PDP.jpg?v=1762269177",
+      "local_image": "/assets/beauty/necessaire-7187611877489.jpg"
+    },
+    {
+      "id": "necessaire-7293272785009",
+      "product_url": "https://necessaire.com/products/the-body-oil-multi-oil",
+      "source_image": "https://cdn.shopify.com/s/files/1/0034/8812/0947/files/01_THEBODYOIL_PDP.jpg?v=1762269734",
+      "local_image": "/assets/beauty/necessaire-7293272785009.jpg"
+    },
+    {
+      "id": "olaplex-7089933582408",
+      "product_url": "https://olaplex.com/products/olaplex-n4-bond-maintenance-strengthening-shampoo-250ml",
+      "source_image": "https://cdn.shopify.com/s/files/1/0434/1661/files/2026_No4_250ML_Product_Packshot_01_GBL_1440x1440_1.png?v=1784068303",
+      "local_image": "/assets/beauty/olaplex-7089933582408.png"
+    },
+    {
+      "id": "olaplex-7090334400584",
+      "product_url": "https://olaplex.com/products/olaplex-n5-bond-maintenance-strengthening-conditioner-250ml",
+      "source_image": "https://cdn.shopify.com/s/files/1/0434/1661/files/2026_No5_250ML_ProductPackshot_01_GBL_1440x1440_1.png?v=1784120920",
+      "local_image": "/assets/beauty/olaplex-7090334400584.png"
+    },
+    {
+      "id": "olaplex-7124988297288",
+      "product_url": "https://olaplex.com/products/olaplex-n-3plus-complete-repair-treatment-100ml",
+      "source_image": "https://cdn.shopify.com/s/files/1/0434/1661/files/2025_No3PLUS_100ml_Product_Packshot_01_GBL_1440x1440_a2cbc609-6363-49e1-b2d2-7acd8a72672f.png?v=1771621517",
+      "local_image": "/assets/beauty/olaplex-7124988297288.png"
+    },
+    {
+      "id": "olaplex-7125202337864",
+      "product_url": "https://olaplex.com/products/olaplex-n-7-bonding-oil-30ml",
+      "source_image": "https://cdn.shopify.com/s/files/1/0434/1661/files/2026__7_30ML_ProductPackshot_01_GBL_1440x1440_1.png?v=1793634284",
+      "local_image": "/assets/beauty/olaplex-7125202337864.png"
+    },
+    {
+      "id": "olaplex-7124951040072",
+      "product_url": "https://olaplex.com/products/olaplex-n-6-bond-smoother",
+      "source_image": "https://cdn.shopify.com/s/files/1/0434/1661/files/1-N6_product_1440_9c60cd7a-27b3-4e79-9716-93539f731a02.png?v=1762274954",
+      "local_image": "/assets/beauty/olaplex-7124951040072.png"
+    },
+    {
+      "id": "olaplex-7127829020744",
+      "product_url": "https://olaplex.com/products/olaplex-n-9-bond-protector-nourishing-hair-serum-90ml",
+      "source_image": "https://cdn.shopify.com/s/files/1/0434/1661/files/1-N9_product_1440_f8ddf35c-a140-45b2-b1f5-ece920d7dca4.png?v=1762275212",
+      "local_image": "/assets/beauty/olaplex-7127829020744.png"
+    },
+    {
+      "id": "olaplex-7125191426120",
+      "product_url": "https://olaplex.com/products/olaplex-n-0-intensive-bond-building-treatment",
+      "source_image": "https://cdn.shopify.com/s/files/1/0434/1661/files/1-N0_product-Global_1440_1_a37787a7-49e5-462f-a58c-1fead4e58eb8.png?v=1762273698",
+      "local_image": "/assets/beauty/olaplex-7125191426120.png"
+    },
+    {
+      "id": "olaplex-7125194309704",
+      "product_url": "https://olaplex.com/products/olaplex-rich-hydration-mask-200ml",
+      "source_image": "https://cdn.shopify.com/s/files/1/0434/1661/files/2025_RICH_MASK_INFOGRAPHIC_PRODUCT_US_1.png?v=1762288130",
+      "local_image": "/assets/beauty/olaplex-7125194309704.png"
+    },
+    {
+      "id": "olaplex-7127868670024",
+      "product_url": "https://olaplex.com/products/olaplex-volumizing-blow-dry-mist-50ml",
+      "source_image": "https://cdn.shopify.com/s/files/1/0434/1661/files/1-VBDM_product_1440_9d214cbf-772f-432f-8a52-d7613a762b52.png?v=1762279298",
+      "local_image": "/assets/beauty/olaplex-7127868670024.png"
+    },
+    {
+      "id": "olaplex-7127905075272",
+      "product_url": "https://olaplex.com/products/olaplex-n-4d-clean-volume-detox-dry-shampoo-6-3oz-eng",
+      "source_image": "https://cdn.shopify.com/s/files/1/0434/1661/files/1-N4D_product_1440_1_80fb3327-b605-4f36-ab89-5d7680938cad.png?v=1759285510",
+      "local_image": "/assets/beauty/olaplex-7127905075272.png"
+    },
+    {
+      "id": "olaplex-7093752037448",
+      "product_url": "https://olaplex.com/products/olaplex-n4c-bond-maintenance-clarifying-shampoo-250ml",
+      "source_image": "https://cdn.shopify.com/s/files/1/0434/1661/files/2026_N4C_250ML_ProductPackshot_01_GBL_1440x1440_4cddd08b-76d7-4ddb-9df5-de054fc7ab54.png?v=1784662726",
+      "local_image": "/assets/beauty/olaplex-7093752037448.png"
+    },
+    {
+      "id": "olaplex-7112190132296",
+      "product_url": "https://olaplex.com/products/olaplex-moisturize-and-mend-leave-in-conditioner-100ml",
+      "source_image": "https://cdn.shopify.com/s/files/1/0434/1661/files/1-LIC_PDP_Product_1440.jpg?v=1786653275",
+      "local_image": "/assets/beauty/olaplex-7112190132296.jpg"
+    },
+    {
+      "id": "revlon-8041002270915",
+      "product_url": "https://www.revlon.com/products/ultra-hd-snap-nail-polish",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309970136239_1.jpg?v=1731727371",
+      "local_image": "/assets/beauty/revlon-8041002270915.jpg"
+    },
+    {
+      "id": "revlon-8040990474435",
+      "product_url": "https://www.revlon.com/products/revlon-super-lustrous-nail-enamel",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/revlon-ecomm-ATF-nail-super-lustrous-nail-enamel-soldier-revlon-red-680-gloss-3000x3000.jpg?v=1734548190",
+      "local_image": "/assets/beauty/revlon-8040990474435.jpg"
+    },
+    {
+      "id": "revlon-8040994341059",
+      "product_url": "https://www.revlon.com/products/quick-dry-top-coat-clear-coat-nail-polish",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/nails-nail-care-quick-dry-top-coat-309977737002-hero-9x16_abf4f4cb-eac6-43b3-ba4c-725913bbf5df.png?v=1734025570",
+      "local_image": "/assets/beauty/revlon-8040994341059.png"
+    },
+    {
+      "id": "revlon-8040991064259",
+      "product_url": "https://www.revlon.com/products/quick-dry-base-coat-nail-polish",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/rev_Quick_Dry_Base_Coat_600Bv1_id_103130.jpg.3000x3000.jpg?v=1734628918",
+      "local_image": "/assets/beauty/revlon-8040991064259.jpg"
+    },
+    {
+      "id": "revlon-8040991490243",
+      "product_url": "https://www.revlon.com/products/essential-cuticle-oil-cuticle-care",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/revlon-nail-essential-cuticle-oil-309977756003-hero-9x16_811e391a-2b78-4604-885e-369ebe9ee637.png?v=1734025389",
+      "local_image": "/assets/beauty/revlon-8040991490243.png"
+    },
+    {
+      "id": "revlon-8040994537667",
+      "product_url": "https://www.revlon.com/products/catch-all-nail-clipper",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/revlon-ecomm-ATF-beauty-tools-catch-all-nail-clipper-soldier-3000x3000.jpg?v=1733932483",
+      "local_image": "/assets/beauty/revlon-8040994537667.jpg"
+    },
+    {
+      "id": "revlon-8040993652931",
+      "product_url": "https://www.revlon.com/products/revlon-cuticle-trimmer-with-cap",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309971166105_1.jpg?v=1731727278",
+      "local_image": "/assets/beauty/revlon-8040993652931.jpg"
+    },
+    {
+      "id": "revlon-8040992145603",
+      "product_url": "https://www.revlon.com/products/curved-blade-nail-cuticle-scissors",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309972374103_1.jpg?v=1731727276",
+      "local_image": "/assets/beauty/revlon-8040992145603.jpg"
+    },
+    {
+      "id": "revlon-8040992112835",
+      "product_url": "https://www.revlon.com/products/revlon-stainless-steel-nail-groomer",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/revlon-ecomm-ATF-beauty-tools-stainless-steal-nail-groomer-soldier-3000x3000.jpg?v=1734022155",
+      "local_image": "/assets/beauty/revlon-8040992112835.jpg"
+    },
+    {
+      "id": "revlon-8040991981763",
+      "product_url": "https://www.revlon.com/products/full-jaw-nail-cuticle-nipper",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/revlon-ecomm-ATF-beauty-tools-thunder-full-jaw-cuticle-nipper-soldier-cap-off-3000x3000.jpg?v=1734020441",
+      "local_image": "/assets/beauty/revlon-8040991981763.jpg"
+    },
+    {
+      "id": "revlon-8040992833731",
+      "product_url": "https://www.revlon.com/products/compact-nail-clipper",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/RV_1H24_BT_Thunder_Compact_Nail_Clip_Soldier_300RGB.3000x3000.jpg?v=1733934213",
+      "local_image": "/assets/beauty/revlon-8040992833731.jpg"
+    },
+    {
+      "id": "revlon-8040992669891",
+      "product_url": "https://www.revlon.com/products/6-in-1-nail-tool-heavy-duty-nail-clipper",
+      "source_image": "https://cdn.shopify.com/s/files/1/0650/1328/5059/files/309970075514_1.jpg?v=1731727276",
+      "local_image": "/assets/beauty/revlon-8040992669891.jpg"
+    }
+  ]
+}
