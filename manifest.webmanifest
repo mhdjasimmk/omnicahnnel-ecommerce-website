@@ -1,0 +1,31 @@
+{
+  "id": "./",
+  "name": "Essenzi — Fragrance & Beauty",
+  "short_name": "Essenzi",
+  "description": "Your Essenzi stores. One connected fragrance and beauty shopping experience.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#171717",
+  "lang": "en",
+  "categories": [
+    "shopping",
+    "lifestyle"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "./assets/pwa/essenzi-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/pwa/essenzi-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
